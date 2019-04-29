@@ -1,0 +1,22 @@
+account:
+  #用户名
+  username: kamiao00701
+  #密码
+  password: binghe64
+
+pa: 11
+
+ruokuai:
+  # 在这填“若快”账号的用户名
+  username: solaxruokuai
+  # 在这填“若快”账号的密码
+  password: ted5612689
+
+ticket:
+  train_date: 2019-01-30
+  from_station: BJP
+  to_station: YIJ
+  station_trains: Z277
+  set_type:
+    - "硬卧"
+    - "软卧"
