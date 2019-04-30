@@ -1,16 +1,16 @@
 account:
   #用户名
-  username: kamiao00701
+  username: 
   #密码
-  password: binghe64
+  password: 
 
 pa: 11
 
 ruokuai:
   # 在这填“若快”账号的用户名
-  username: solaxruokuai
+  username: 
   # 在这填“若快”账号的密码
-  password: ted5612689
+  password: 
 
 ticket:
   train_date: 2019-01-30
